@@ -1,6 +1,10 @@
-提交你的脚本!
+# 脚本仓库
 
 [README of English](https://github.com/JsHook-Script-Repo/submission/blob/main/README.en.md)
+
+## 提交地址
+
+[https://github.com/JsHook-Script-Repo/submission](https://github.com/JsHook-Script-Repo/submission)
 
 ## 如何提交
 
@@ -10,7 +14,7 @@
 
 `DESC` 此文件为显示在仓库中的脚本简单描述
 
-`rhino.js` / `frida.js` 两个文件只能存在一个，来绝对您的脚本属于哪种脚本框架。
+`rhino.js` / `frida.js` 两个文件只能存在一个，来决定您的脚本属于哪种脚本框架。
 
 通过编辑存储库详细信息中的描述来更改仓库中脚本的名称，以及网站设置脚本来源方便用户快速访问您的官网。
 
